@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.odl</groupId>
     <artifactId>cvDemo</artifactId>
-    <version>1.0.</version>
+    <version>1.0.0</version>
     <name>cvDemo</name>
     <description>cvDemo</description>
     <properties>
