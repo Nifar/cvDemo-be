@@ -1,0 +1,11 @@
+bot:
+  token: ${BOT_TOKEN}
+  name: ${BOT_NAME}
+  chatId: ${BOT_CHAT_ID}
+spring:
+  application:
+    name: cvDemo
+  banner:
+    location: classpath:banner.txt
+server:
+  port: 8080
